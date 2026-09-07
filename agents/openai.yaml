@@ -1,0 +1,4 @@
+interface:
+  display_name: "建筑概念手绘"
+  short_description: "沿用第一版概念手绘风格，分别生成钢笔稿与炭笔稿，择优保留原图拼合"
+  default_prompt: "使用 $architecture-concept-sketch 按第一版风格处理建筑照片，仅交付一张拼合成图、一张钢笔稿和一张炭笔稿。"
